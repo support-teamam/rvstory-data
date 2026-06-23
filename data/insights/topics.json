@@ -1,0 +1,129 @@
+{
+  "app": "rv",
+  "schema": 1,
+  "generatedAt": "2026-06-23T03:56:41Z",
+  "disclaimer": "General information compiled from public sources, for reference only — not professional advice and not reviewed by licensed experts. Verify before acting; Team AM is not liable.",
+  "source": "researched (see per-topic sources)",
+  "topics": [
+    {
+      "id": "roof-reseal",
+      "title": "Inspect and reseal your RV roof",
+      "summary": "Check roof seams and seals twice a year and plan a full reseal every few years before water gets in.",
+      "detail": "A common guideline is to inspect the roof and its sealant at least twice a year, plus after any severe weather, and to touch up cracked or lifted sealant as you find it. Many sources suggest a full reseal of rubber/TPO roofs roughly every 3–5 years, though the exact interval depends on roof type and coating. Always follow the specific sealant manufacturer's reapplication instructions for your roof material, since products and intervals vary.",
+      "tags": ["roof", "sealant", "water-intrusion", "exterior"],
+      "severity": "attention",
+      "sources": [
+        { "name": "Venture RV — Roof Inspection & Resealing", "url": "https://www.venture-rv.com/maintenance-tips/roof-inspection-resealing/" },
+        { "name": "Camping World — Best RV Roof Sealant", "url": "https://blog.campingworld.com/learn-to-rv/best-rv-roof-sealant/" }
+      ]
+    },
+    {
+      "id": "slide-out-care",
+      "title": "Clean and lubricate slide-outs (per your mechanism)",
+      "summary": "Keep slide rails clean, and lubricate only if your slide type calls for it — using dry lube, not greasy spray.",
+      "detail": "For mechanisms that call for lubrication, a common practice is to clean and lubricate slide-outs a few times a year, often before and after the camping season. Use a dry (dry-film or dry silicone) lubricant so it does not attract grit and gum up the tracks. Important exception: some designs, like Schwintek rack-and-pinion slides, are meant to be cleaned and inspected only — the maker advises against adding lubricant, which can attract dirt and impair operation. Always check your owner's manual or the slide manufacturer's guidance first.",
+      "tags": ["slide-out", "lubrication", "interior", "maintenance"],
+      "severity": "info",
+      "sources": [
+        { "name": "Lippert — Quick Tips for RV Slide-Out Maintenance", "url": "https://www.lippert.com/blog/quick-tips-rv-slide-out-maintenance" },
+        { "name": "KOA — Lubricating RV Slide-Outs", "url": "https://koa.com/blog/lubricating-rv-slide-outs/" }
+      ]
+    },
+    {
+      "id": "sanitize-water-system",
+      "title": "Sanitize the fresh-water system",
+      "summary": "Disinfect the fresh-water tank and lines with a measured bleach dose, then flush thoroughly before drinking.",
+      "detail": "A widely used method is to bypass the water heater and any filters, then add unscented household bleach (commonly about 1/4 cup per 15 gallons of tank capacity, pre-mixed in a gallon of water), fill the tank, and run every faucet until you smell bleach. Let it sit at least about 12 hours, then drain and refill with fresh water and flush until the bleach smell is gone. Sanitizing is typically done at de-winterization or any time the system has sat unused; check your manual for tank capacity and any specific guidance.",
+      "tags": ["water-system", "sanitize", "plumbing", "seasonal"],
+      "severity": "attention",
+      "sources": [
+        { "name": "Camping World — Sanitize Your RV's Freshwater System", "url": "https://blog.campingworld.com/learn-to-rv/sanitize-your-rvs-freshwater-system-in-5-simple-steps/" },
+        { "name": "The RV Geeks — How to Sanitize Your RV Water System", "url": "https://www.thervgeeks.com/sanitize-your-rv-water-system/" }
+      ]
+    },
+    {
+      "id": "winterize-water-system",
+      "title": "Winterize the water system before freezing weather",
+      "summary": "Protect plumbing from freeze damage with RV antifreeze or a full air blow-out — and never mix it with bleach sanitizing.",
+      "detail": "Before sustained freezing temperatures, drain the system and either blow out the lines with low-pressure air or pump non-toxic RV antifreeze through every line and fixture, per your manual. Critical safety note: do not winterize and sanitize at the same time — chlorine bleach and the glycol in RV antifreeze are not compatible, so the system should be fully flushed with fresh water between the two procedures. Bypass the water heater so antifreeze does not fill the tank.",
+      "tags": ["water-system", "winterize", "freeze-protection", "seasonal"],
+      "severity": "attention",
+      "sources": [
+        { "name": "RV Travel — De-winterize and Sanitize the Water System", "url": "https://www.rvtravel.com/dewinterizesanitize990/" },
+        { "name": "BlackSeries — RV Water Line Sanitizing Beyond De-Winterizing", "url": "https://www.blackseries.net/blog/rv-water-line-sanitizing-beyond-de-winterizing-blackseries.html" }
+      ]
+    },
+    {
+      "id": "tire-age-replace",
+      "title": "Replace tires by age, not just tread",
+      "summary": "RV tires age out from the inside even with good tread, so many makers say replace them in the 6–10 year range.",
+      "detail": "Some vehicle and tire manufacturers recommend replacing tires that are roughly six to ten years old regardless of remaining tread, because the rubber degrades with UV and time even on lightly used RVs. Read the DOT date code on the sidewall: the last four digits are the week and year of manufacture (for example, 2321 means the 23rd week of 2021). Use the manufacturer's stated age guidance for your specific tires if available, and inspect older tires closely for cracking.",
+      "tags": ["tires", "safety", "age", "inspection"],
+      "severity": "safety",
+      "sources": [
+        { "name": "Winnebago — RV Tire Care, Maintenance & Replacement Guide", "url": "https://www.winnebago.com/lifestyle/winnebagolife/education/rv-tire-care-maintenance-replacement" },
+        { "name": "RV Travel — RV Tire Safety: How old is too old?", "url": "https://www.rvtravel.com/rv-tire-safety-tire-age-rvt-1035/" }
+      ]
+    },
+    {
+      "id": "tire-pressure-load",
+      "title": "Set cold tire pressure from your actual axle weight",
+      "summary": "Weigh the loaded RV and set cold pressure from the tire maker's load/inflation table — not just the sidewall max.",
+      "detail": "The safest pressure matches your real axle-end weight to the tire manufacturer's official load and inflation table. Weigh the loaded RV with each axle (ideally each axle end) on a scale, then use the heaviest end weight for that axle to pick the cold pressure for all tires on it. Check pressure cold — before driving, or after the rig has sat a few hours — for an accurate reading.",
+      "tags": ["tires", "tire-pressure", "weight", "safety"],
+      "severity": "safety",
+      "sources": [
+        { "name": "Michelin — Proper RV Tire Inflation (Load & Inflation Tables)", "url": "https://business.michelinman.com/people-transportation/rv/load-and-inflation-tables" },
+        { "name": "RV Safety & Education Foundation — Tire Inflation Tables", "url": "https://rvsafety.com/weight/tire-inflation-tables" }
+      ]
+    },
+    {
+      "id": "generator-service",
+      "title": "Service and exercise your generator",
+      "summary": "Change generator oil on the manufacturer's hour/year schedule and run it under load monthly so it stays healthy.",
+      "detail": "For Cummins Onan RV gensets, owner guidance commonly cites an initial oil change after the first ~50 hours, then routine oil changes around every 100–150 hours or annually (whichever comes first), depending on the model — confirm the exact figure in your unit's manual. Run (exercise) the generator about two hours each month, ideally with a load, to circulate oil, keep fuel fresh, and prevent carbon buildup. Also service the air filter and spark arrestor per the manual.",
+      "tags": ["generator", "onan", "oil-change", "maintenance"],
+      "severity": "attention",
+      "sources": [
+        { "name": "Cummins — Onan RV Generator Operator Manual (HDZAA)", "url": "https://www.cummins.com/sites/default/files/rv-manuals/0983-0103.pdf" },
+        { "name": "RV Habit — Oil Change in a Cummins Onan QG 4000", "url": "https://www.rvhabit.com/post/oil-change-in-a-cummins-onan-rv-qg-4000-generator" }
+      ]
+    },
+    {
+      "id": "propane-leak-test",
+      "title": "Leak-test the propane (LP-gas) system",
+      "summary": "Have the LP system pressure/leak-tested periodically, and check connections with soapy water if you ever smell gas.",
+      "detail": "NFPA 1192 (Standard on Recreational Vehicles) describes a system pressure drop test performed between 8 and 14 inches of water column to verify the LP-gas system holds pressure. A common field check is the bubble (soapy water) test on threaded connections and appurtenances, including fittings at the tank. If you smell propane, shut off the gas at the tank and do not use ignition sources until the leak is found and repaired; a periodic professional LP inspection is a reasonable practice.",
+      "tags": ["propane", "lp-gas", "safety", "leak-test"],
+      "severity": "safety",
+      "sources": [
+        { "name": "NFPA 1192 reference — RV LP-gas pressure/leak test (Venture RV)", "url": "https://www.venture-rv.com/maintenance-tips/propane-system-leak-inspections/" },
+        { "name": "California RV Specialists — LP Gas Inspection", "url": "https://calrvspecialists.com/lp-gas-inspection/" }
+      ]
+    },
+    {
+      "id": "gas-co-detectors",
+      "title": "Check and replace LP and CO detectors on schedule",
+      "summary": "Propane and carbon-monoxide alarms expire — test them every trip and replace them by the date on the unit (often ~5 years).",
+      "detail": "LP-gas and CO detectors have a limited service life and should be replaced by their labeled expiration, commonly around 5 years (some models 7) — and note the clock on many LP detectors starts when 12V power is first connected, not at manufacture. Press the test button before and during trips, and replace any backup 9-volt battery in a CO unit yearly. Check the expiration sticker on the back of each unit to confirm its replacement date.",
+      "tags": ["safety", "co-detector", "lp-detector", "propane"],
+      "severity": "safety",
+      "sources": [
+        { "name": "RV Enthusiast — Testing and Replacing LP-gas, CO and Smoke Detectors", "url": "https://rventhusiast.com/rvexpert/staying-safe-testing-and-replacing-lp-gas-carbon-monoxide-and-smoke-detectors/" },
+        { "name": "Truck Camper Magazine — Replacing RV LP and CO Detectors", "url": "https://www.truckcampermagazine.com/maintenance/replacing-rv-lp-and-co-detectors/" }
+      ]
+    },
+    {
+      "id": "wheel-bearings",
+      "title": "Repack trailer wheel bearings",
+      "summary": "Clean, inspect, and repack towable-RV wheel bearings roughly once a year or every 12,000 miles, whichever comes first.",
+      "detail": "Dexter, a major trailer-axle maker, recommends lubricating/repacking standard tapered wheel bearings about every 12 months or 12,000 miles under normal use, whichever comes first — and the time interval matters as much as the mileage. Use a grease that matches the manufacturer's specified type (Dexter calls out specific polyurea-based greases) and avoid mixing incompatible greases. Frequent or heavy towing may warrant shorter intervals; follow your axle manual.",
+      "tags": ["wheel-bearings", "axle", "towable", "lubrication"],
+      "severity": "attention",
+      "sources": [
+        { "name": "Dexter Group — How to Manually Repack Bearings on a Trailer", "url": "https://www.dextergroup.com/resources/learning-library/how-to/5545/how-to-manually-repack-bearings-on-a-trailer" },
+        { "name": "Camping World — How Often to Grease Trailer Wheel Bearings", "url": "https://blog.campingworld.com/learn-to-rv/how-often-should-you-grease-travel-trailer-wheel-bearings/" }
+      ]
+    }
+  ]
+}
